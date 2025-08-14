@@ -1,0 +1,14 @@
+{
+  "name": "jest-example-project",
+  "version": "1.0.0",
+  "description": "A basic Node.js project with Jest for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
